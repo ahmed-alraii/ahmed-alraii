@@ -26,13 +26,6 @@
 
 ---
 
-### 📊 **GitHub Stats**
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" />
-</div>
-
----
 
 ### 🤝 **Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ahmed-al-raii-14504a20b)
