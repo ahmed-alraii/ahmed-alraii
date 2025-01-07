@@ -39,7 +39,7 @@
 ---
 
 ### 🤝 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](linkedin.com/in/ahmed-al-raii-14504a20b)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ahmed-al-raii-14504a20b)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/ahmed-alraii)
 
 ---
