@@ -43,5 +43,3 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/ahmed-alraii)
 
 ---
-
-![Footer Image](https://your-footer-image-link.com)
