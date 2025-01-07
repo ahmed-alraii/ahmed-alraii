@@ -5,7 +5,7 @@
 
 
 🌟 **About Me**  
-- 🔧 Specializing in ** PHP, Laravel, MySQL, C#, ASP.NET Core, Angular, and  SQL Server**  
+- 🔧 Specializing in ** PHP, Laravel, MySQL, C#, ASP.NET Core, Angular, and  SQL Server **  
 - 🌱 Passionate about learning and solving complex problems with clean, scalable solutions.  
 - 🚀 Exploring cloud technologies and modern web architectures.  
 - 🎯 Open to collaboration on interesting projects.  
