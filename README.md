@@ -6,7 +6,7 @@
 ![Header](https://your-image-link-here.com)
 
 🌟 **About Me**  
-- 🔧 Specializing in **C#, ASP.NET Core, SQL Server, Angular, PHP, Laravel, and MySQL**  
+- 🔧 Specializing in ** PHP, Laravel, MySQL, C#, ASP.NET Core, Angular, and  SQL Server**  
 - 🌱 Passionate about learning and solving complex problems with clean, scalable solutions.  
 - 🚀 Exploring cloud technologies and modern web architectures.  
 - 🎯 Open to collaboration on interesting projects.  
