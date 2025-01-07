@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Ahmed Al-Raii  
-### Backend Developer | Full-Stack Developer  
+### Backend Developer 
 
 ---
 
